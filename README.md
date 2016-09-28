@@ -16,7 +16,6 @@ En este cuerpo de datos se detallan los datos de los Registros Seccionales donde
 -	**Descripción:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 -	**Formato:** CSV
 -	**Rango temporal:** no corresponde
--	**Fecha de Actualización:** 30/06/2016
 
 ###Campos del recurso
 -	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra
