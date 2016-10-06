@@ -6,7 +6,7 @@ En este cuerpo de datos se detallan los datos de los Registros Seccionales donde
 Características
 ---------------
 
--	**Fecha de Publicación:** dd/mm/aaaa
+-	**Fecha de Publicación:** 06/10/2016
 
 -	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración
 
@@ -25,9 +25,9 @@ Recursos Disponibles
 
 ###Listado de Registros Seccionales
 
--	**Nombre del archivo:** listadoRegistroSeccionales
+-	**Nombre del archivo:** listado-registros-seccionales
 
--	**Descripción del contenido:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-	**Descripción del contenido:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
 
 -	**Formato:** CSV delimitado por comas
 
@@ -35,9 +35,9 @@ Recursos Disponibles
 
 ###Campos del recurso
 
--	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra
+-	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias).
 
--	**codigoRegistroSeccional (int):** Código del registro seccional
+-	**codigo (int):** Código del registro seccional.
 
 -	**denominacion (string):** Nombre del registro seccional
 
@@ -49,9 +49,9 @@ Recursos Disponibles
 
 -	**provincia (string):** Provincia del registro seccional 
 
--	**letraProvincia (string):** Letra asociada a cada provincia
+-	**letra_provincia (string):** Letra asociada a cada provincia
 
--	**codigoPostal (string):** Código postal del registro seccional
+-	**codigo_postal (string):** Código postal del registro seccional
 
 -	**telefono (string):** Número de teléfono del registro seccional
 
