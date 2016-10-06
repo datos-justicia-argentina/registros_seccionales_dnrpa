@@ -10,7 +10,7 @@ Características
 
 -	**Recurso:** Listado de Registros Seccionales
 
--	**Tags o Etiquetas:** Inscripciones Iniciales, Automotores, Motovehículos, Maquinarias, Prendas, Transferencias, Registración
+-	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios.
 
