@@ -8,8 +8,6 @@ Características
 
 -	**Fecha de Publicación:** dd/mm/aaaa
 
--	**Recurso:** Listado de Registros Seccionales
-
 -	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios.
@@ -31,9 +29,9 @@ Recursos Disponibles
 
 -	**Descripción del contenido:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
--	**Formato:** CSV
+-	**Formato:** CSV delimitado por comas
 
--	**Rango temporal:** no corresponde
+-	**Rango temporal:** Registros Seccionales activos al momento de la publicación
 
 ###Campos del recurso
 
