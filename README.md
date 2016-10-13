@@ -10,11 +10,11 @@ Características
 
 -	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración
 
--	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios.
+-	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
--	**Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios.
+-	**Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
--	**Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios.
+-	**Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
 -	**Grupos:** Sistema Registral
 
@@ -23,7 +23,7 @@ Características
 Recursos Disponibles
 --------------------
 
-###Listado de Registros Seccionales
+***Listado de Registros Seccionales
 
 -	**Nombre del archivo:** listado-registros-seccionales
 
@@ -33,11 +33,11 @@ Recursos Disponibles
 
 -	**Rango temporal:** Registros Seccionales activos al momento de la publicación
 
-###Campos del recurso
+***Campos del recurso
 
--	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias).
+-	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias)
 
--	**codigo (int):** Código del registro seccional.
+-	**codigo (int):** Código del registro seccional
 
 -	**denominacion (string):** Nombre del registro seccional
 
@@ -57,6 +57,6 @@ Recursos Disponibles
 
 -	**fax(string):** Número de fax del registro seccional
 
-##Notas
+**Notas
 
 La actividad registral de los automotores está regulada por el Régimen Jurídico del Automotor [Digesto Jurídico del Automotor] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias [Reglamento Interno de Normas Orgánico-Funcionales] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm)
