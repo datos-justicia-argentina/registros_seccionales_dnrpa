@@ -33,7 +33,7 @@ Recursos Disponibles
 
 -	**Rango temporal:** Registros Seccionales activos al momento de la publicación
 
-###Campos del recurso
+###Campos del recurso###
 
 -	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias)
 
