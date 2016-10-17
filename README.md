@@ -6,56 +6,56 @@ En este cuerpo de datos se detallan los datos de los Registros Seccionales donde
 Características
 ---------------
 
--	  **Fecha de Publicación:** 06/10/2016
+-	**Fecha de Publicación:** 06/10/2016
 
--	  **Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración
+-	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración
 
--	  **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
--	  **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-	**Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
--	  **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-	**Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
--	  **Grupo:** Sistema Registral
+-	**Grupo:** Sistema Registral
 
--	  **Frecuencia de Actualización:** Mensual
+-	**Frecuencia de Actualización:** Mensual
 
 Recursos disponibles
 --------------------
 
 ### Listado de Registros Seccionales
 
--	  **Nombre del archivo:** listado-registros-seccionales
+-	**Nombre del archivo:** listado-registros-seccionales
 
--	  **Descripción del contenido:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
+-	**Descripción del contenido:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
 
--	  **Formato:** CSV delimitado por comas
+-	**Formato:** CSV delimitado por comas
 
--	  **Rango temporal:** Registros Seccionales activos al momento de la publicación
+-	**Rango temporal:** Registros Seccionales activos al momento de la publicación
 
 ### Campos del recurso
 
--	  **competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias)
+-	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias)
 
--	  **codigo (int):** Código del registro seccional
+-	**codigo (int):** Código del registro seccional
 
--	  **denominacion (string):** Nombre del registro seccional
+-	**denominacion (string):** Nombre del registro seccional
 
--	  **encargado (string):** Nombre del responsable del registro seccional, en el caso de estar intervenido el nombre está precedido por “Int.”
+-	**encargado (string):** Nombre del responsable del registro seccional, en el caso de estar intervenido el nombre está precedido por “Int.”
 
--	  **domicilio (string):** Domicilio del registro seccional
+-	**domicilio (string):** Domicilio del registro seccional
 
--	  **localidad (string):** Localidad del registro seccional 
+-	**localidad (string):** Localidad del registro seccional 
 
--	  **provincia (string):** Provincia del registro seccional 
+-	**provincia (string):** Provincia del registro seccional 
 
--	  **letra_provincia (string):** Letra asociada a cada provincia
+-	**letra_provincia (string):** Letra asociada a cada provincia
 
--	  **codigo_postal (string):** Código postal del registro seccional
+-	**codigo_postal (string):** Código postal del registro seccional
 
--	  **telefono (string):** Número de teléfono del registro seccional
+-	**telefono (string):** Número de teléfono del registro seccional
 
--	  **fax(string):** Número de fax del registro seccional
+-	**fax(string):** Número de fax del registro seccional
 
 ## Notas
 
