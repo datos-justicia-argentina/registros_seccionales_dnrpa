@@ -16,7 +16,7 @@ Características
 
 -	**Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
--	**Grupos:** Sistema Registral
+-	**Grupo:** Sistema Registral
 
 -	**Frecuencia de Actualización:** Mensual
 
