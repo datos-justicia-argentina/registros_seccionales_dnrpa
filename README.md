@@ -57,6 +57,6 @@ Recursos disponibles
 
 -	**fax(string):** Número de fax del registro seccional
 
-## Notas
+### Notas
 
 La actividad registral de los automotores está regulada por el Régimen Jurídico del Automotor [Digesto Jurídico del Automotor] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias [Reglamento Interno de Normas Orgánico-Funcionales] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm)
