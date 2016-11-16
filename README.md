@@ -8,7 +8,7 @@ Características
 
 -	**Fecha de Publicación:** 06/10/2016
 
--	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración
+-	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias , registración
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
 
@@ -59,4 +59,4 @@ Recursos disponibles
 
 ### Notas
 
-La actividad registral de los automotores está regulada por el Régimen Jurídico del Automotor [Digesto Jurídico del Automotor] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias [Reglamento Interno de Normas Orgánico-Funcionales] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm)
+La actividad registral de los automotores está regulada por el Régimen Jurídico del Automotor [Digesto Jurídico del Automotor] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias [Reglamento Interno de Normas Orgánico-Funcionales] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm).
