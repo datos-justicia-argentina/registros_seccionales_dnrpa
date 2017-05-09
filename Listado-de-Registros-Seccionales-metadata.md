@@ -18,7 +18,7 @@ Características
 
 -	**Grupo:** Sistema Registral
 
--	**Frecuencia de Actualización:** Mensual
+-	**Frecuencia de Actualización:** Mensualmente
 
 Recursos disponibles
 --------------------
