@@ -6,7 +6,7 @@ En este cuerpo de datos se detallan los datos de los Registros Seccionales donde
 Características
 ---------------
 
--	**Fecha de Publicación:** 06/10/2016
+-	**Fecha de Primera Publicación:** 06/10/2016
 
 -	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias , registración
 
