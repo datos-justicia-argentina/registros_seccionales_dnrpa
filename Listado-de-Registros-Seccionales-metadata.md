@@ -25,13 +25,13 @@ Recursos disponibles
 
 ### Listado de Registros Seccionales
 
--	**Nombre del archivo:** listado-registros-seccionales
+-	**Nombre del archivo:** listado-registros-seccionales.csv
 
 -	**Descripción del contenido:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
 
--	**Formato:** CSV delimitado por comas
+-	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
--	**Rango temporal:** Registros Seccionales activos al momento de la publicación
+-	**Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
