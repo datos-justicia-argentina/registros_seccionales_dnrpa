@@ -27,35 +27,35 @@ Recursos disponibles
 
 -	**Nombre del archivo:** listado-registros-seccionales.csv
 
--	**Descripción del contenido:** Detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
+-	**Descripción del contenido:** detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
--	**Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+-	**Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--	**competencia (string):** Competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias)
+-	**competencia (string):** competencia del registro seccional, los registros seccionales se encuentran divididos según el tipo de vehículo que registra (Automotores, Motovehículos, Maquinarias)
 
--	**codigo (int):** Código del registro seccional
+-	**codigo (int):** código del registro seccional
 
--	**denominacion (string):** Nombre del registro seccional
+-	**denominacion (string):** nombre del registro seccional
 
--	**encargado (string):** Nombre del responsable del registro seccional, en el caso de estar intervenido el nombre está precedido por “Int.”
+-	**encargado (string):** nombre del responsable del registro seccional, en el caso de estar intervenido el nombre está precedido por “Int.”
 
--	**domicilio (string):** Domicilio del registro seccional
+-	**domicilio (string):** domicilio del registro seccional
 
--	**localidad (string):** Localidad del registro seccional 
+-	**localidad (string):** localidad del registro seccional 
 
--	**provincia (string):** Provincia del registro seccional 
+-	**provincia (string):** provincia del registro seccional 
 
--	**letra_provincia (string):** Letra asociada a cada provincia
+-	**letra_provincia (string):** letra asociada a cada provincia
 
--	**codigo_postal (string):** Código postal del registro seccional
+-	**codigo_postal (string):** código postal del registro seccional
 
--	**telefono (string):** Número de teléfono del registro seccional
+-	**telefono (string):** número de teléfono del registro seccional
 
--	**fax(string):** Número de fax del registro seccional
+-	**fax(string):** número de fax del registro seccional
 
 ### Notas
 
