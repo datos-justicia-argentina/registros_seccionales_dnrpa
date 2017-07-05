@@ -23,7 +23,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de Registros Seccionales
+### Listado de Registros Seccionales - AAAA-MM
 
 -	**Nombre del archivo:** listado-registros-seccionales.csv
 
