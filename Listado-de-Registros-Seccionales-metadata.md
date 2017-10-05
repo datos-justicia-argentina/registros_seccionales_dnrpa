@@ -25,7 +25,7 @@ Recursos disponibles
 
 ### Listado de Registros Seccionales - AAAA-MM
 
--	**Nombre del archivo:** listado-registros-seccionales.csv
+-	**Nombre del archivo:** listado-registros-seccionales-AAAA-MM.csv
 
 -	**Descripción del contenido:** detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
 
