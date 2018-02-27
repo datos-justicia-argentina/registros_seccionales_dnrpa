@@ -29,7 +29,7 @@ Recursos disponibles
 
 -	**Nombre del archivo:** listado-registros-seccionales-AAAA-MM.csv
 
--	**Descripción del contenido:** e detallan los datos de los Registros Seccionales donde se realizan los trámites registrales de los vehículos (automotores, motovehículos y maquinarias agrícolas, viales e industriales y créditos prendarios) de todo el país.
+-	**Descripción del contenido:** se detallan los datos de los Registros Seccionales donde se realizan los trámites registrales de los vehículos (automotores, motovehículos y maquinarias agrícolas, viales e industriales y créditos prendarios) de todo el país.
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
