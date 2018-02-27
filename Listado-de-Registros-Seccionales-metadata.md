@@ -3,6 +3,8 @@ Listado de Registros Seccionales de la Dirección Nacional de Registros Nacional
 
 En este cuerpo de datos se detallan los datos de los Registros Seccionales donde se realizan los trámites registrales de los vehículos (automotores, motovehículos y maquinarias agrícolas, viales e industriales y créditos prendarios) de todo el país.
 
+http://datos.jus.gob.ar/dataset/listado-de-registros-seccionales-de-la-dnrnpa
+
 Características
 ---------------
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -	**Nombre del archivo:** listado-registros-seccionales-AAAA-MM.csv
 
--	**Descripción del contenido:** detalles de los registros seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios y sus encargados
+-	**Descripción del contenido:** e detallan los datos de los Registros Seccionales donde se realizan los trámites registrales de los vehículos (automotores, motovehículos y maquinarias agrícolas, viales e industriales y créditos prendarios) de todo el país.
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
