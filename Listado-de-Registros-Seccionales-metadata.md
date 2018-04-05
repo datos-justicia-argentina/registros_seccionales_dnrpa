@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de Registros Seccionales - AAAA-MM
+### Listado de Registros Seccionales de todo el país - AAAA-MM
 
 -	**Nombre del archivo:** listado-registros-seccionales-AAAA-MM.csv
 
