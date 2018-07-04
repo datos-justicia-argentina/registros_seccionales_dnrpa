@@ -59,6 +59,8 @@ Recursos disponibles
 
 -	**fax(string):** número de fax del registro seccional
 
+-	**provincia (string):** codigo de provincia del registro seccional, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018) 
+
 ### Listado de Registros Seccionales de todo el país - AAAA
 
 - **Nombre:** listado-registros-seccionales-AAAA.zip
