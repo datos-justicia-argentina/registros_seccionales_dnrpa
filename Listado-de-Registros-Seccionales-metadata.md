@@ -45,21 +45,25 @@ Recursos disponibles
 
 -	**encargado (string):** nombre del responsable del registro seccional, en el caso de estar intervenido el nombre está precedido por “Int.”
 
+-	**encargado_cuit (string):** número de C.U.I.T el responsable del registro seccional
+
 -	**domicilio (string):** domicilio del registro seccional
 
 -	**localidad (string):** localidad del registro seccional 
 
--	**provincia (string):** provincia del registro seccional 
+-	**provincia_nombre (string):** provincia del registro seccional 
 
--	**letra_provincia (string):** letra asociada a cada provincia
+-	**provincia_letra (string):** letra asociada a cada provincia
 
 -	**codigo_postal (string):** código postal del registro seccional
 
 -	**telefono (string):** número de teléfono del registro seccional
 
--	**fax(string):** número de fax del registro seccional
+-	**fax (string):** número de fax del registro seccional
 
--	**provincia (string):** codigo de provincia del registro seccional, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018) 
+-	**horario_atencion (string):** horario de atención del registro seccional
+
+-	**provincia_codigo_indec (int):** codigo de provincia del registro seccional, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018) 
 
 ### Listado de Registros Seccionales de todo el país - AAAA
 
