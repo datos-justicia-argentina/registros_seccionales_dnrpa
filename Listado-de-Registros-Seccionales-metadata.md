@@ -75,6 +75,8 @@ Recursos disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 La actividad registral de los automotores está regulada por el Régimen Jurídico del Automotor [Digesto Jurídico del Automotor] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias [Reglamento Interno de Normas Orgánico-Funcionales] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm).
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
