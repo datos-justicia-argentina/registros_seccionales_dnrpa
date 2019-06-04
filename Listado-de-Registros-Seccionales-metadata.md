@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de Registros Seccionales de todo el país - AAAA-MM
+### Listado de Registros Seccionales de todo el país - AAAAMM
 
--	**Nombre del archivo:** listado-registros-seccionales-AAAA-MM.csv
+-	**Nombre del archivo:** listado-registros-seccionales-AAAAMM.csv
 
 -	**Descripción del contenido:** se detallan los datos de los Registros Seccionales donde se realizan los trámites registrales de los vehículos (automotores, motovehículos y maquinarias agrícolas, viales e industriales y créditos prendarios) de todo el país.
 
