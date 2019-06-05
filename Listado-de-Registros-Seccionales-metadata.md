@@ -63,7 +63,7 @@ Recursos disponibles
 
 -	**horario_atencion (string):** horario de atención del registro seccional
 
--	**provincia_codigo_indec (int):** codigo de provincia del registro seccional, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018) 
+-	**provincia_id (int):** codigo de provincia del registro seccional, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018) (hasta 04/2019 nombre campo provincia_codigo_indec)
 
 ### Listado de Registros Seccionales de todo el país - AAAA
 
