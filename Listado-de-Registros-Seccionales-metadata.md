@@ -59,7 +59,7 @@ Recursos disponibles
 
 -	**telefono (string):** número de teléfono del registro seccional
 
--	**fax (string):** número de fax del registro seccional
+-	**fax (string):** número de fax del registro seccional (Este campo se deja de publicar a partir del 06/2021)
 
 -	**horario_atencion (string):** horario de atención del registro seccional
 
