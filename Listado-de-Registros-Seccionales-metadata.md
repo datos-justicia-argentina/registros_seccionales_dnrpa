@@ -1,4 +1,4 @@
-Listado de Registros Seccionales de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+Listado de Registros Seccionales de la Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 =================================================================================================================================
 
 En este cuerpo de datos se detallan los datos de los Registros Seccionales donde se realizan los trámites registrales de los vehículos (automotores, motovehículos y maquinarias agrícolas, viales e industriales y créditos prendarios) de todo el país.
@@ -12,11 +12,11 @@ Características
 
 -	**Tags o Etiquetas:** inscripciones iniciales, automotores, motovehículos, maquinarias, prendas, transferencias, registración, autos, motos
 
--	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-	**Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
--	**Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-	**Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
--	**Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-	**Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
 -	**Grupo:** Sistema Registral
 
@@ -79,4 +79,4 @@ Recursos disponibles
 
 La actividad registral de los automotores está regulada por el Régimen Jurídico del Automotor [Digesto Jurídico del Automotor] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias [Reglamento Interno de Normas Orgánico-Funcionales] (http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm).
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
